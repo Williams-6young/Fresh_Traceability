@@ -1,0 +1,6 @@
+-i http://pypi.doubanio.com/simple/
+
+python~=3.8.1
+Django~=2.0.7
+
+-e .
